@@ -1,3 +1,3 @@
 # mycode
-Learning to track my code
-Stop
+Learning to track my code.
+Stop.
