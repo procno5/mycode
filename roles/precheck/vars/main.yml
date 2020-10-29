@@ -1,0 +1,4 @@
+# vars file for /home/student/mycode/roles/precheck
+---
+switchint: 1
+switchver: "4.22"
