@@ -1,0 +1,7 @@
+---
+
+- role: "show the version"
+  cli_command:
+     commmand: show version
+    
+    
